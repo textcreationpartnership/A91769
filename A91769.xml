@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse in the praise of antimonie and the vertues thereof. Written and published at the request of a person of quality. By Constantine Rhodocanacis.</title>
+            <author>Rhodokanakēs, Kōnstantinos, 1635-1689.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91769</idno>
+            <idno type="STC">Wing R1335</idno>
+            <idno type="STC">ESTC R229938</idno>
+            <idno type="EEBO-CITATION">99895740</idno>
+            <idno type="PROQUEST">99895740</idno>
+            <idno type="VID">153288</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91769)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153288)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2358:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse in the praise of antimonie and the vertues thereof. Written and published at the request of a person of quality. By Constantine Rhodocanacis.</title>
+                  <author>Rhodokanakēs, Kōnstantinos, 1635-1689.</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1664</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153288:1" rendition="simple:additions"/>
+            <p>A DISCOURSE In the Praiſe of Antimonie, and the <hi>
+                  <g ref="char:V">Ʋ</g>ertues</hi> thereof.</p>
+            <p>Written and Publiſhed at the requeſt of a Perſon of quality.</p>
+            <p>By <hi>Conſtantine Rhodocanacis.</hi>
+            </p>
+            <p>Printed in the year, 1664.</p>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb facs="tcp:153288:2"/>
+            <pb n="1" facs="tcp:153288:2"/>
+            <head>A DISCOURSE in praiſe of Antimony, and the <hi>
+                  <g ref="char:V">Ʋ</g>ertues</hi> thereof.</head>
+            <p>
+               <seg rend="decorInit">A</seg>LL expert Chymiſts have ſo commended this Mineral, that amongſt all the Stu<g ref="char:EOLhyphen"/>dents of the Art, there is not one, who doth not much admire it, and not with<g ref="char:EOLhyphen"/>out good cauſe: For amongſt all Mine<g ref="char:EOLhyphen"/>rals, <hi>Antimony</hi> alone hath received from Nature a Body compounded, and tem<g ref="char:EOLhyphen"/>pered with an admirable proportion of Elements. The Elements have given it ſo great and ſecret vertues, as if they had endeavoured to rank it in the number of thoſe things, that have in them ſomething of Divinity. Seeing that this ſacred Lead hath power to make manifeſt the ſecret vertues of other Mettals: for it is a certain mild fire, that can preſerve not only the Bodies of Mettals, but even thoſe of Men. This is that fire which reſolves and pene<g ref="char:EOLhyphen"/>trates the metalline Bodies. Let us hear what <hi>Pſellus</hi> ſaith of it to <hi>Xiphilinus</hi> the Patriarch, who deſired to be inſtructed of him
+<pb n="2" facs="tcp:153288:3"/>in ſome ſecrets of Nature. <hi>Shall I</hi> (ſaith he) <hi>diſcover unto you the vertues that lie hid in the inward parts of Antimony? or the ſacred Lead, which</hi> Hippocrates <hi>kept ſo ſecret under the name of his Tetragon?</hi> Where we may note, that <hi>Pſellus</hi> called this Mineral ſacred, becauſe he well knew it to be the perfection of Nature; the illuſtrious light, and flower of <hi>Jupiter:</hi> for there is in this Mineral a certain incombuſtible Sulphur, which uſeth to unite it ſelf to other Mettals, and to purifie their impure and combuſtible Sulphur. Hence he is called the Governour of all Mettals; the light, and blood of Gold; becauſe he doth not only correct the imperfect Mettals, but alſo upon the Teſt pur<g ref="char:EOLhyphen"/>geth Gold it ſelf, and exalts his light and ſplendour. He is called alſo the Star of <hi>Mars,</hi> becauſe being joyned to Iron, it melts to a bright Mettalline, called the Star of Iron, and the ſtarry <hi>Regulus</hi> thereof. He claims likewiſe to himſelf the name of <hi>Mercury,</hi> and is called the ſhining <hi>Mercury,</hi> becauſe there is a very near affinity between theſe two Minerals. He is alſo called <hi>
+                  <g ref="char:V">Ʋ</g>enus</hi> and <hi>Phoſphorus,</hi> becauſe he brings forth two <hi>Cu<g ref="char:EOLhyphen"/>pids,</hi> armed with different Arrows, whereof ſome are tipped with Gold, and ſome with Steel, in teſtimony of his affection both to Gold, and to Iron; wherefore his Father <hi>Saturn</hi> hath adorned him as his Son, with ſeveral titles. He is called more<g ref="char:EOLhyphen"/>over the <hi>Magneſia,</hi> becauſe <hi>Antimony</hi> hath a certain magneti<g ref="char:EOLhyphen"/>cal, or ſympathetick property, by which he enclines to, and affects the Mettals, that he may impart to them a greater per<g ref="char:EOLhyphen"/>fection: and this, much after that manner, by which the Load<g ref="char:EOLhyphen"/>ſtone enclines to the Pole-ſtarre, and tends towards it perpe<g ref="char:EOLhyphen"/>tually. And to comprehend all in a word, <hi>Antimony</hi> with its magnetick quality, allures, as it were, all curious ſpirits to the ſearch, and ſtudy thereof; and effects this much, that when they have once known it, they have a deſire to appropriate it to themſelves, and to exclude all others from the knowledge thereof. And this is the cauſe, why they impoſed ſo many names upon it, and diſguized this Mineral under the names of living creatures: as when they bid us, <hi>Take the black Lyon with sparkling fiery eyes;</hi> and <hi>Baſil <g ref="char:V">Ʋ</g>alentine</hi> calls it a <hi>Wolf,</hi> whoſe proceſs I will here inſert, that ſuch as can underſtand it, may learn thereby to make no contemptible Medicines for the health
+<pb n="3" facs="tcp:153288:3"/>of man. <hi>Take</hi> (ſaith he) <hi>the hungry ravenous Wolf, which is ſubject to warlike</hi> Mars, <hi>but originally is the ſon of</hi> Saturn, <hi>which lies in the Mountains, and <g ref="char:V">Ʋ</g>alleys, ready to dye for hunger. Caſt before him the body of the King, that he may ea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e it, and when he hath devoured it, cast the Wolf himſelf into a great fire, and the Wolf will vaniſh away, and leave the King behind him: Do this three times, and then the Lion, or King will overcome the Wolf: and the Nature of the King delights much in the tincture of the Wolf, becauſe of the affinity that is between the Blood of theſe two. In this operation, thou mayeſt obſerve a moſt pleaſant thing, for when the Lion is glutted with the blood of the Wolf, he will ſhine like the Sun, and his inward vertue is very great, and very profitable for any work, thou wouldeſt effect therewith.</hi> Behold now the Mineral Key, which is delivered to us, that we may not only open Mettal with it, but withall, that we may open our Eyes, and may be able to diſcern as well the Internal Qualities, as the Extern<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l of the S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cred Lead. This alſo is generally affirmed of <hi>Antimony,</hi> that it is very beneficial to colour withall: for there are drawn out of it ſeveral colours, or tinctures, not only to paint and beautifie the Eyes with, but alſo to ſtop their defluxi<g ref="char:EOLhyphen"/>ons: yea, and to mitigate all ſharp humors, and inflammations, and to take away their cauſes. Hence the Jewiſh women made uſe of <hi>Antimony</hi> for a <hi>Coſmetic,</hi> to paint their Eyes, and Faces withall, for they endeavoured to render themſelves pleaſing to the <hi>Aſſyrians, Chaldaeans,</hi> and <hi>Aegyptians.</hi> In this reſpect the <hi>Chaldees</hi> called <hi>Antimony Cohol,</hi> and the <hi>Arabians Cohl,</hi> becauſe it beautifies the face: as the <hi>Greeks</hi> alſo called it <hi>Stibi,</hi> from its colour: for the Women did black their Eye-brows with it, as the cuſtom is in <hi>Turky,</hi> at this day. <hi>Galen</hi> alſo confeſſeth, that the <hi>Greek</hi>-women uſed it to the ſame end, and he teacheth, that it is not only proper to paint the Browes, but alſo to ſtop the de<g ref="char:EOLhyphen"/>fluxions of the Eyes. Whence he boaſts, that he had found a moſt excellent remedy to repell, and drie up all ſharp Rheumes that offend the Eyes, and this remedy was therefore called an <hi>Opthalmic,</hi> and a <hi>Prophilactic,</hi> or Praeſervative of the Eyes. This Remedy was uſual amongſt all thoſe people, who lived under the Romane government, and was eſteemed infallible: not only to ſtop defluxions, but to clear the Eyes, and to take away all ſpots,
+<pb n="4" facs="tcp:153288:4"/>and clouds, that hindred the ſight. Hence it may appear, that <hi>Antimony;</hi> was uſed in the days of <hi>Galen,</hi> and principally by the phraſe <hi>
+                  <g ref="char:V">Ʋ</g>poſtimmizein</hi> in the Greek tongue, from <hi>Stimmi,</hi> which ſignifies <hi>Antimony,</hi> becauſe they did put the <hi>Stimmi</hi> or <hi>An<g ref="char:EOLhyphen"/>timony</hi> upon their Browes, and painted them therewith. There were alſo many Phyſical Remedies made for the Eyes, of <hi>Antimo<g ref="char:EOLhyphen"/>ny,</hi> whereof ſome were dry, and ſome moyſt Confections, where<g ref="char:EOLhyphen"/>with the ſight was ſtrengthened, and ſore Eyes very readily cu<g ref="char:EOLhyphen"/>red. Hence it appears that <hi>Antimony</hi> cleanſeth our Eyes, as well as Mettals, and certainly if the effects of it are ſo wholeſome, being outwardly applyed to the Eyes, what ſhall we think of it, if it be miniſtred inwardly, and taken into the Body. Of a truth, it will no leſs ſtrengthen the ſtomack, if it be well prepared, for it cureth all diſtempers of the inward parts, ſtrengthens the appetite, and giveth eaſe in all ſtitches, and pungent diſtempers cauſed by Cholerick and Sharp-humors in the Gutts, or Stomach. <hi>Antimo<g ref="char:EOLhyphen"/>ny</hi> was the <hi>Phaenix</hi> of <hi>Hippocrates,</hi> but a Wiſeman muſt extract the ſecret, and ſupply himſelf with the knowledge of the Vertues thereof, out of its Aſhes, for there they lie hid. For this Mineral doth ſo ſtrengthen, and ſtirr up nature, that ſhe can free, and diſ<g ref="char:EOLhyphen"/>charge her ſelf from Bilious humors, which breed obſtructions in the Gutts, and ſtomach, and from thence diſperſe themſelves into other parts of the Body; This Mineral ſtirreth up four ſeveral fa<g ref="char:EOLhyphen"/>culties in our Bodies, whereby the Excrements are expelled, and all peccant humors caſt out: for it purgeth by vomit, by ſtoole, it cauſeth us to ſweat, it ſtrengthneth the principal parts, and is a preſervative againſt poyſons. Theſe admirable vertues were the cauſe, why <hi>Hippocrates</hi> concealed this Mineral under the name of his <hi>Tetragon:</hi> and verily nature hath not produced any other Compound, wherein there is ſuch vertue and power to remove, and reſolve obſtructions in the Gutts, ſeeing nature hath not im<g ref="char:EOLhyphen"/>parted this faculty to any other Body, but hath conferr'd it upon <hi>Antimony</hi> alone. Hence <hi>Baſil <g ref="char:V">Ʋ</g>alentine</hi> confeſſeth this Mineral to be moſt conducing, and agreeable to the principal parts of the Body, as the very Balſam, and Mumy of life: and he affirmeth, that there is not under heaven, a more excellent medicine, than what may be prepared out of <hi>Antimony,</hi> for it expelleth poyſons, opens all obſtructions, driveth out the ſuperfluities of the Blood
+<pb n="5" facs="tcp:153288:4"/>by ſweat, and purgeth by ſtool, and vomit; moſt juſtly there<g ref="char:EOLhyphen"/>fore did <hi>Hippocrates</hi> call <hi>Antimony</hi> his <hi>Tetragon,</hi> becauſe of its fourfold faculties, and vertues: for it vomits, it purgeth, it ſweat<g ref="char:EOLhyphen"/>eth, and it preſerves, and ſtrengthens withal. <hi>Galen</hi> calleth thoſe ſhining filaments, or ſtreakes, which appear in <hi>Antimony, Plakas:</hi> which diſcover, and manifeſt unto us, that <hi>Antimony</hi> is naturally full of <hi>Regulus,</hi> in which <hi>Regulus</hi> there are excellent Vertues: For by his <hi>Plakas Galen</hi> underſtood the purer, and brighter parts of the <hi>Antimony,</hi> in which parts thoſe four medi<g ref="char:EOLhyphen"/>cinal faculties lodge, which make up the <hi>Tetragon.</hi> Amongſt all Symptoms of Diſeaſes, the moſt vehement is an extream pain of the head, which procedes from abundance of Bilious ſlimy hu<g ref="char:EOLhyphen"/>mors heaped up, and impacted in the Gutts, where they cauſe Inflammations, and ſuch ſtrong Obſtructions, that ſometimes the natural paſſage downwards is ſtopped, that the very Excre<g ref="char:EOLhyphen"/>ments are purged out at the mouth: and in this cauſe; <hi>Hippo<g ref="char:EOLhyphen"/>crates</hi> requires, that the patient ſhould vomit every ſixth day, ſhould drink wine, and be purged with his <hi>Tetragon:</hi> in which Text <hi>Galen</hi> hath rightly obſerved, that by his <hi>Tetragon Hippo<g ref="char:EOLhyphen"/>crates</hi> underſtood <hi>Antimony.</hi> For this Mineral being well pre<g ref="char:EOLhyphen"/>pared, roots out the Cauſes of this Symptom, namely, the Bilious humours impacted in the Gutts. It is plain then, that <hi>Hippocra<g ref="char:EOLhyphen"/>tes</hi> by his <hi>Tetragon,</hi> meant <hi>Antimony,</hi> for this diſeaſe will not yield to any other Remedies: for purge the Patient with com<g ref="char:EOLhyphen"/>mon Medicaments, as <hi>Hellebore,</hi> and the like, and make him vo<g ref="char:EOLhyphen"/>mit never ſo often, yet the pain in the Head ſhall ſtill continue, for thoſe remedies cannot reſolve, and expell the Bilious excre<g ref="char:EOLhyphen"/>ments that cauſe it, and therefore the Patient muſt be purged with the <hi>Tetragon,</hi> for it is the property of this Mineral to reſolve Obſtructions, and purge them out both upwards and down<g ref="char:EOLhyphen"/>wards, as alſo by ſweating, and to ſtrengthen the natural parts, which have been weakned by the peccant matter. And ſeeing this Mineral is Diaphoretick withal, it doth by a gentle tranſpi<g ref="char:EOLhyphen"/>ration diſperſe, and expell thoſe noxious vapours and fumes, which aſcend from the Stomack, and the peccant matter, up to the heart, and the head, and cauſe thoſe troubleſome ſymptoms: and theſe excellent effects made a famous Philoſopher call <hi>Anti<g ref="char:EOLhyphen"/>mony</hi> the <hi>Healing Mumie of life.</hi> Others there were, who called
+<pb n="6" facs="tcp:153288:5"/>
+               <hi>Antimony</hi> the <hi>Ramm,</hi> and not without reaſon, for as the Coele<g ref="char:EOLhyphen"/>ſtial Sun begins to be exalted in the Sign of <hi>Aries,</hi> even ſo the Terreſtrial Sun, namely, Gold, is exalted and purged in <hi>Antimo<g ref="char:EOLhyphen"/>ny,</hi> as we may underſtand by the Aenigmatical proceſs of <hi>Baſil Valentine,</hi> formerly mention'd under the names of the <hi>Lyon</hi> and the <hi>Wolf.</hi> And there are thoſe who ſtick not to affirm, that in <hi>Antimony</hi> is hid the ſecret of all ſecrets, as being the Marcaſite of <hi>Saturn.</hi> But this moreover is worth our obſervation, that there are two ſorts of <hi>Antimony;</hi> namely, the Male and the Female: The Male is more impure, earthy, and of leſs weight; but the Female is purer, more ſparkling and bright; much heavier than the other, and hath more in her of a Mettalline nature; whence we may conclude with <hi>Dioſcorides,</hi> that that <hi>Antimony</hi> is to be choſen for the beſt, which hath in it certain ſhining filaments or ſtreaks; and which being broken, the fragments will eaſily crumble between your fingers; and which hath not much earth mingled therewith, nor any extraneous, foeculent ſuperfluities.</p>
+            <p>Moreover, there are made of <hi>Antimony</hi> ſeveral ſorts of Me<g ref="char:EOLhyphen"/>dicines, namely, the <hi>Crocus,</hi> or Mineral Saffron; the <hi>Flowres;</hi> the <hi>Glaſs of Antimony;</hi> the <hi>Antimonial Cups,</hi> the <hi>Butter;</hi> the <hi>Mercurius vitae,</hi> or vomiting powder; the <hi>Regulus,</hi> the <hi>Gol<g ref="char:EOLhyphen"/>den Sulphur;</hi> the <hi>Salt,</hi> and <hi>Oyl</hi> made thereof by Reſolution in a cold place; as alſo ſeveral kinds of Tinctures. For our part, we know how to make four different Tinctures of <hi>Antimony,</hi> where<g ref="char:EOLhyphen"/>of the one excells the other in vertue, according to the purity of the matter, whereof they are prepared. The ſame we ſay of our ſweating powder: and theſe our Medicines cauſe no vomits at all, but work only by ſweating, and that kindly too; and without any moleſtation or offence to the ſtomack: And at <hi>Cambridge</hi> there are many perſons who can atteſt this truth with me, as alſo here at <hi>London.</hi> We prepare alſo, beſides the Tin<g ref="char:EOLhyphen"/>ctures, and the Diaphoretick, another Medicament, which is a ruddy powder, and we call it the <hi>Theion</hi> of <hi>Hippocrates,</hi> and our <hi>Panodon,</hi> becauſe it purgeth at all the Emunctories, or paſ<g ref="char:EOLhyphen"/>ſages of the Body, by Vomit, by Stool, by Urine, by Sweat, and an inſenſible tranſpiration. We prepare alſo the Salt of <hi>Antimony,</hi> which hath the ſame effects with our <hi>Theion,</hi> this on<g ref="char:EOLhyphen"/>ly excepted, that the Salt purgeth only downwards, by Stool
+<pb n="7" facs="tcp:153288:5"/>and Urine, and in that reſpect is better than our ruddy powder for ſuch Patients, who cannot endure vomiting Medicines. Of all, and each of theſe we ſhall now diſcourſe, that ſuch perſons who deſire to have them, may know what they are good for, and how they ought to be taken, and in what quantity.</p>
+            <div type="part">
+               <head>Of the uſe and Doſe of our <hi>Antimonial Tincture.</hi>
+               </head>
+               <p>This Tincture is a good and a ſafe Medicine, and may be taken inwardly, or applyed outwardly with much benefit: for it cures the <hi>Leproſie,</hi> the <hi>French Pox,</hi> the <hi>Scurvy,</hi> all <hi>Feavers,</hi> the <hi>Falling-Sickneſſe,</hi> the <hi>Dropſie,</hi> the <hi>Plague,</hi> the <hi>Meazles,</hi> the <hi>Itch,</hi> and ſuch other Diſeaſes. In <hi>Meagrims,</hi> and pains of the head, and the <hi>Hypocondriack</hi> melancholy, it avails much. It expells poiſons, cures thoſe that are Aſthmatical; killeth Worms, and helps in many other diſtempers, which cannot be cured with Simples. It cleanſeth the Blood, emptieth all vici<g ref="char:EOLhyphen"/>ous humours of the Stomack; brings down the Courſes, and maketh Barren Women fruitful; in the <hi>Gout</hi> alſo, and the <hi>Stone,</hi> it is a commendable Medicine. The Doſe thereof is alterable, according to the age of the Patient, wherein alſo there muſt be a reſpect had to his ſtrength, and to the violence of the Diſeaſe. To little Children of 2, 3, 4, or 6 Months old, you may give one or two drops in their Mothers Milk againſt <hi>Worms, Itch, Feavers, Convulſions, Falling-Sickneſs,</hi> or <hi>Meazles;</hi> but to Children of one, two, or three years old, you may give four drops in Milk or Wine, and you may ſafely repeat this Doſe every third or fourth day. But if you would only uſe this Medicine as a Preſer<g ref="char:EOLhyphen"/>vative, to prevent diſeaſes, then you may give it little Children twice a Month, and it will ſtrengthen them, and prevent the ſaid diſeaſes, by cleanſing their Bodies, and purging out all bad humours. But to perſons of 15 years of age, to 24, you may give 6, or 10 drops in ſugar'd Wine. And to thoſe of 25, and ſo forwards to 50 years of age, you may give 10, 20, or 40 drops: and always you may encreaſe, or diminiſh the Doſe, ac<g ref="char:EOLhyphen"/>cording
+<pb n="8" facs="tcp:153288:6"/>to the age of the Patient, with reſpect had to the ſtrength of the diſeaſe, and his body. In the <hi>Gout</hi> and the <hi>Stone,</hi> give 10 drops in Wine or Ale every day, in the morning faſting: but if the Patient be very weak, give it only every third, or fourth day, and ſo continue it to the end of the Cure; but let him with<g ref="char:EOLhyphen"/>all uſe a temperate dyet. In the <hi>Leproſie,</hi> the <hi>French Pox,</hi> and the <hi>Scurvy,</hi> take this Medicine every day in the Morning; but if the Patient be weak, then take it but every ſecond day, and that ſo long as you find it neceſſary. In the <hi>Falling-Sickneſs</hi> and the <hi>Dropſie,</hi> it is to be taken after the ſame manner. But in inter<g ref="char:EOLhyphen"/>mitting Feavers, take it an hour, or ſo, before the Fitt, or when the Fitt is quite over; and the Patients ſhould always in their or<g ref="char:EOLhyphen"/>dinary drinks take ſome of our Spirit of Salt, in every diſtemper. But if it be a quotidian Feaver, then take the Tincture every morning. In peſtilential Diſeaſes, take a Doſe of it preſently, and repeat it every day. But if you would uſe it only for a pre<g ref="char:EOLhyphen"/>ſervative to prevent the <hi>Plague,</hi> then take it but once a week. In all other inward diſtempers, you muſt take a Doſe of it in the beginning of the diſeaſe, and continue it once every day till your diſtemper be removed; and by this means all maladies may be cured, without putting the Patients to any pain. Our Diapho<g ref="char:EOLhyphen"/>retick powder is alſo effectual in all diſeaſes, wherein we have preſcribed the Tincture: and may be adminiſtred from one Grain to 40, having always a reſpect to the age, and ſtrength of the Patient. The beſt Vehicle to adminiſter it in, is <hi>Malego</hi> Wine; and let the Patient keep in his Bed to ſweat, as he muſt do alſo when he takes the Tincture. And always in intermitting Feavers give the Powder, as well as the Tincture, before the Fitt.</p>
+            </div>
+            <div type="part">
+               <head>Of the <hi>Theion</hi> of <hi>Hippocrates.</hi>
+               </head>
+               <p>This is a moſt excellent Medicine againſt the <hi>Falling-Sickneſs, Feavers, Plague, Gout, Leproſie, French Pox, Pains in the Head, Meazles,</hi> and <hi>Melancholy;</hi> and in one word, it is a commendable Medicine in all kinds of diſeaſes. In outward Maladies alſo, as old Sores and Wounds, it effects much, namely.
+<pb n="9" facs="tcp:153288:6"/>if the Patient be inwardly purged with it; Women with Child only excepted, for to them it muſt not be adminiſtred, nor con<g ref="char:EOLhyphen"/>veniently to any ſuch, who are ſo far ſpent, and weakened with diſeaſes, that they have not ſtrength enough left to take Phyſick. The uſual Doſe to thoſe that are not above 15 years, is from one Grain, to 3, 4, and 5. To thoſe that are of full age, and in the flower of their youth, ſuch a Doſe is to be adminiſtred, as ſhall be able to make them vomit; namely, 6, or 8 Grains; but if the Patient abhorrs a Vomit, then let him take our Salt of <hi>An<g ref="char:EOLhyphen"/>timony,</hi> whereof we ſhall ſpeak hereafter. To Infants, and lit<g ref="char:EOLhyphen"/>tle Children, young of age, the Doſe is from half a Grain, to one Grain. It may alſo be adminiſtred to new-born Children, againſt <hi>Convulſions,</hi> and <hi>Epileptick Fitts,</hi> but the Doſe muſt not exceed the bigneſs of the Seed of a Rape, and it muſt be given in the Mothers Milk. But if the Child be ſtrong, and above half a year old, you may encreaſe the Doſe, ſo as it may effect ſome viſible opperation, and purge out the bad humours; and by this means you may alſo prevent the <hi>Meazles,</hi> and many other diſea<g ref="char:EOLhyphen"/>ſes which uſe to afflict Children. Of a truth, by this Medicine all Maladies wherewith men are troubled, may be eaſily cured, and at a cheap rate.</p>
+            </div>
+            <div type="part">
+               <head>Of the <hi>Salt</hi> of <hi>Hippocrates.</hi>
+               </head>
+               <p>This Salt of <hi>Antimony</hi> is in a manner better than the <hi>Theion</hi> of <hi>Hippocrates;</hi> and of a truth, it effects great matters, and many grievous diſeaſes are cured therewith. It avails much againſt the <hi>Gout</hi> and the <hi>Stone,</hi> and is a very deſirable Medicine for ſuch as are afflicted with them. The Doſe of it is variable: to thoſe of full age, you may give one Scruple, or a little more; to little Children, the Doſe is from one Grain, to 12, according as they are leſs, or more in years. It empties all bad humours, by a ve<g ref="char:EOLhyphen"/>ry gentle Purgation, which is worth our notice. The proper Ve<g ref="char:EOLhyphen"/>hicles to adminiſter it in, is Wine or Ale, or any Broth whatſo<g ref="char:EOLhyphen"/>ever.</p>
+            </div>
+            <closer>Glory be to God.</closer>
+            <closer>
+               <signed>Conſtantine Rhodocanacis Chienſis.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
